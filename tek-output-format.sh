@@ -2,5 +2,5 @@
 
 cat
 
-echo "function _response_output () { echo $@ ; }"
+echo "function response_output () { echo $@ ; }"
 
